@@ -1,6 +1,6 @@
 # Bloskas.us starter site
 
-A simple static personal website built for Cloudflare Pages.
+A simple static personal website built for Cloudflare Pages. 
 
 ## Files
 
